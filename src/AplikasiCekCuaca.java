@@ -20,7 +20,7 @@ import org.json.JSONObject;
 
 /**
  *
- * @author USER
+ * @author rendy
  */
 public class AplikasiCekCuaca extends javax.swing.JFrame {
     private javax.swing.JTable dataTable;
